@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/2f245b7e-c72b-464b-a7a6-2ea467e7d79f/resourceGroups/RG1Test/providers/Microsoft.Web/sites/reachda",
-    "appService.deploySubpath": "."
-}
